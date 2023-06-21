@@ -1,0 +1,34 @@
+comprising;включающий в себя
+obsolete;устаревший 
+precedence;приоритет 
+consistency;согласованность, последовательность, постоянство, логичность
+doubt;сомневаться, сомнение
+judgement;суждение 
+hesitate;сомневаться, стесняться
+particular;особый 
+predates;предшествует 
+explicit;явный 
+conditional;условный 
+parenthesis;скобка 
+distinguish;различать 
+preferred;предпочтительный 
+indentation;отступ 
+solely;исключительно 
+disallows;запрещает 
+fewer;меньше 
+restrictions;ограничения 
+adjacent;соседний, прилегающий
+wrapping;обёртка 
+disrupt;нарушать 
+appropriate;соответствующий 
+implicit;неявный, скрытый
+tend;иметь тенденцию
+subtracted;вычтено 
+dummy;фиктивный 
+adopt;усыновить? 
+clash;конфликт, столкновение
+explicitly;явно 
+deem;считать, что
+insistent;настойчивый 
+controversy;полемика ?
+inheritance;наследование 
